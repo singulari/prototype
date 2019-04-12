@@ -1,4 +1,4 @@
-# ward
+# Plannerly
 
 > A Vue.js project
 
